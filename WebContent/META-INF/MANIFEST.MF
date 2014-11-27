@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: 
+
+Import-Bundle: org.springframework.web.servlet;version="[3.2.5.RELEASE,3.2.5.RELEASE]"
